@@ -1,4 +1,4 @@
----
+<!-- ---
 date: '2024-01-25'
 title: 'PurdueBall'
 github: ''
@@ -10,4 +10,4 @@ company: ''
 showInProjects: true
 ---
 
-Developing a platform so for Purdue to allow individuals to tell how filled/empty basketball courts are.
+Developing a platform so for Purdue to allow individuals to tell how filled/empty basketball courts are. -->
