@@ -1,7 +1,7 @@
 ---
 date: '2023-08-21'
 title: 'Software Engineer'
-company: 'Indiana Soy Bean Alliance (Corporate Partnerships Data Mine)'
+company: 'Indiana Soy Bean Alliance'
 location: 'West Lafayette, IN'
 range: 'August 2023 - Present'
 url: 'https://incornandsoy.org/'

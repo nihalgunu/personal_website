@@ -1,7 +1,7 @@
 ---
 date: '2023-10-21'
 title: 'Project Lead'
-company: 'Purdue Fusion Studio for Entertainment and Engineering'
+company: 'Purdue Fusion Studio'
 location: 'West Lafayette, IN'
 range: 'October 2023 - Present'
 url: 'https://centers.purdue.edu/fusion-studio/'
