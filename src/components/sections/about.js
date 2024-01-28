@@ -138,7 +138,7 @@ const About = () => {
               Hello! My name is Nihal Gunukula and I am an Entrepreneur, Software Engineer, and
               Machine Learning Researcher who enjoys revolutionizing current technology. These
               interests stem from my goals to be the change I want to see in the world leading me to
-              the begin and grow my portfolio of intitaives.
+              the begin and grow my portfolio of initiatives.
             </p>
 
             <p>
